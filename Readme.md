@@ -30,7 +30,8 @@
 - 🎧 Watching Sports + music = the ultimate coding vibe
 <br/>
 
-✉️ **akanshtiwary2k05@gmail.com** — Feel free to reach out for collaborations!!
+✉️ **akanshtiwary2k05@gmail.com** <br/>
+🌐 <a href="https://portfolio-omega-sepia-67.vercel.app">Portfolio</a> — Feel free to reach out for collaborations!!
 <!--Languages and Tools Section--> 
 <h2>Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
