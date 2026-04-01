@@ -1,124 +1,69 @@
-# 💫 Hi 👋, I'm Akansh Tiwary
+<!-- Cyberpunk Gradient Banner with Glitch Effect -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:00FFFF,100:FF00CC&height=300&section=header&text=Akansh%20Tiwary&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=00FFFF&strokeWidth=2" />
+</p>
 
-<!--Profile Banner-->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Development+Enthusiast;Travel+Tech+Builder;Always+Learning" alt="Typing Animation" />
-</div>
+<!-- Matrix-Style Dual Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=70&lines=++%3E_+Building+the+unseen+%3C++;++%3E_+Full+Stack+Architect+%3C++;++%3E_+System+Optimizer+%3C++;++%3E_+404%3A+Sleep+Not+Found+%3C++" />
+</p>
 
-<!--Profile Image and Intro-->
-<div align="center">
-  <img align="right" width="40%" alt="Developer" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<!-- Neon Pulse Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-2925-4ee0-9976-159fbbbd2d0e.gif" width="800">
+</p>
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Start Intro-->               
-<p align="left">
-  I'm Akansh Tiwary, a passionate <strong>Full Stack Developer</strong> from India, eager to learn and try new things around the world. I specialize in building modern web applications with <strong>Next.js, React, Node.js, and MongoDB</strong>. I love creating practical solutions that solve real-world problems, and I'm constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.
-</p>
+<p align="left">I am a Full Stack Developer and AI Enthusiast with a huge love for React.js, Node.js, RDBMS, REST API and Data Visualization. </p>
 
-### 🎯 Quick Facts:
-- ✨ **Life Philosophy**: Eager to learn and try new things around the world
-- 🌱 Currently **mastering Full Stack Development** and exploring new technologies
-- 🎓 Student focused on building real-world projects
-- 🧠 Actively solving problems on **LeetCode** and building portfolio projects
-- ⚙️ Building scalable applications with **Next.js, Node.js, Express, MongoDB**
-- 🧪 Creating **AI-powered features** and innovative solutions
-- 🚀 Passionate about **web development** and full-stack engineering
-- 📍 Based in **India**
-
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🎓 Pursuing a Bachelor's in Computer Science
+- 🧠 Consistently grinding Striver Sheet to master DSA—no zero days!
+- ⚙️ Improving backend development skills with Node.js, Express, and MongoDB while building scalable full-stack applications.
+- 🧪 Experimenting with automation tools and intelligent developer utilities.
+- 🎧 Watching Sports + music = the ultimate coding vibe
 <br/>
 
----
-
-## 📬 Get In Touch:
-
-<div align="center">
-  
-  ✉️ **[akanshtiwary2k05@gmail.com](mailto:akanshtiwary2k05@gmail.com)** — Feel free to reach out for collaborations!
-  
-  <p>
-    <a href="https://www.linkedin.com/in/akansh-tiwary2526/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/AkanshtTiwary" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/u/akanshtiwary/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
-    </a>
-    <a href="https://portfolio-omega-sepia-67.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-    </a>
-  </p>
-</div>
-
----
-
-## 💻 Tech Stack & Arsenal:
-
+✉️ **akanshtiwary2k05@gmail.com** — Feel free to reach out for collaborations!!
+<!--Languages and Tools Section--> 
+<h2>Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+<br />
+<br />
+<br />
 
-### 🔧 Languages & Tools:
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Experimenting with automation tools and intelligent developer utilities.</li>
+  <li>Learning Data Structures and Algorithms (DSA) to improve problem-solving and coding efficiency.</li> 
+</ul>
+<br />
 
-**Languages:**
-<div>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akansh-tiwary2526/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akansh-tiwary2526" height="30" width="40" /></a>
+<a href="https://github.com/AkanshtTiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AkanshtTiwary" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/akanshtiwary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akanshtiwary" height="30" width="40" /></a>
+<a href="https://portfolio-omega-sepia-67.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/link.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
+<br/>
+<!-- Snake Game -->
+ <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-**Frontend:**
-<div>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
-**Backend:**
-<div>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-%23FF6B6B.svg?style=for-the-badge&logo=api&logoColor=white" />
-</div>
-
-**Databases:**
-<div>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-**Tools & Platforms:**
-<div>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-
----
-
-## 📚 Currently Learning:
-
-<div align="left">
-  
-  | Topic | Status | Details |
-  |-------|--------|----------|
-  | 🌐 **Web Development** | 🔥 Active | Modern frameworks, Best practices |
-  | 🔍 **Exploring New Technologies** | 📖 In Progress | Staying updated with tech trends |
-  | 📊 **Data Structures & Algorithms** | 🔥 Grinding | LeetCode & Problem Solving |
-  | 🏗️ **System Design** | 📖 Learning | Building scalable applications |
-  | ☁️ **Cloud & DevOps** | 📖 Interested | Deployment & Infrastructure |
-
-</div>
-
----
 
 ## 🚀 Featured Projects:
 
@@ -144,90 +89,17 @@ A comprehensive EdTech platform for creating, consuming, and rating educational 
 
 </div>
 
----
 
-## 📊 GitHub Statistics:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AkanshtTiwary&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AkanshtTiwary&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkanshtTiwary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkanshtTiwary&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=36BCF7&icon_color=36BCF7)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AkanshtTiwary&theme=tokyonight&hide_border=true&stroke=36BCF7&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkanshtTiwary&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=36BCF7)
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies:
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkanshtTiwary&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Activity:
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkanshtTiwary&theme=tokyonight&hide_border=true&area=true&point=36BCF7&line=36BCF7)
-
-</div>
-
----
-
-## 📝 Featured Work & Projects:
-
-<!-- FEATURED WORK:START -->
-- 🌍 **FreakyTravellers** - AI-powered travel budget optimizer with Razorpay integration
-- 📚 **Edvora** - Full-stack EdTech platform with AI virtual teacher
-- 💼 **SmartFolio** - Investment portfolio dashboard for financial management
-<!-- FEATURED WORK:END -->
-
----
-
-## 🎮 Fun Fact:
-
-```
-while(alive) {
-  coffee++;
-  code();
-  if(error) debug();
-  sleep(8);
-}
-```
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-I'm always open to:
-- 💼 **Collaboration** on interesting web development projects
-- 🤝 **Learning opportunities** and mentorship
-- 💬 **Technical discussions** on full-stack development
-- 🚀 **Opportunities** to work on innovative projects
-
-Feel free to reach out! Let's build something amazing together! 🌟
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:akanshtiwary2k05@gmail.com)](mailto:akanshtiwary2k05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akansh-tiwary2526/)](https://www.linkedin.com/in/akansh-tiwary2526/)
-[![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white&link=https://github.com/AkanshtTiwary)](https://github.com/AkanshtTiwary)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white&link=https://portfolio-omega-sepia-67.vercel.app)](https://portfolio-omega-sepia-67.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ If you find my projects helpful, consider giving them a star! It motivates me to keep building amazing things!
-
-**Made with ❤️ by Akansh Tiwary** | Always learning, always growing 🚀
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AkanshtTiwary&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Animated Footer with Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00CC&height=150&section=footer&text=Let's%20Build%20Something%20Epic&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
+</p>
