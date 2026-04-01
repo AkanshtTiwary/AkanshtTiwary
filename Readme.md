@@ -58,7 +58,7 @@
 <a href="https://www.linkedin.com/in/akansh-tiwary2526/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akansh-tiwary2526" height="30" width="40" /></a>
 <a href="https://github.com/AkanshtTiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AkanshtTiwary" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/akanshtiwary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akanshtiwary" height="30" width="40" /></a>
-<a href="https://portfolio-omega-sepia-67.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/link.svg" alt="Portfolio" height="30" width="40" /></a>
+
 </p>
 <br/>
 <!-- Snake Game -->
